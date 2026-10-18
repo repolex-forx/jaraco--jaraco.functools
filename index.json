@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "jaraco.functools",
+  "versions": [
+    {
+      "commit": "348632f3eea75c9b4055b088fd297d84ee079df9",
+      "tag": "",
+      "parsed_at": "2026-10-18T01:57:46.547709+00:00"
+    }
+  ]
+}
