@@ -3,6 +3,11 @@
   "repo": "jaraco.functools",
   "versions": [
     {
+      "commit": "b57bb859e09f10f1e2ad7e64e9d71723793517f2",
+      "tag": "v4.4.0",
+      "parsed_at": "2026-11-22T01:34:59.138924+00:00"
+    },
+    {
       "commit": "348632f3eea75c9b4055b088fd297d84ee079df9",
       "tag": "",
       "parsed_at": "2026-10-18T01:57:46.547709+00:00"
